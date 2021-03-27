@@ -9,6 +9,9 @@
 ### 👯 Collaborate with me on: 
 [<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg">](https://www.kaggle.com/pratibhabeniwal)
 
+<img align="right" alt="GIF" src="https://github.com/PratibhaBeniwal/PratibhaBeniwal/code.gif?raw=true" width="250" height="100" />
+
+
 
 ### 📫 Connect with me on: 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">](https://www.linkedin.com/in/pratibhabeniwal) [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg">](https://twitter.com/PratibhaBeniwal3) [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg">](https://www.instagram.com/pratibhabeniwal.2601/) 
