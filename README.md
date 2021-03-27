@@ -12,8 +12,8 @@
 
 
 ### 📫 Connect with me on: 
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">](https://www.linkedin.com/in/pratibhabeniwal) [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg">](https://twitter.com/PratibhaBeniwal3) [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg">](https://www.instagram.com/pratibhabeniwal.2601/) 
-[<img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">](https://www.facebook.com/Pratibhabeniwal) 
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">](https://www.linkedin.com/in/pratibha-beniwal) [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg">](https://twitter.com/PratibhaBeniwal3?s=08) [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg">](https://www.instagram.com/pratibhabeniwal.2601/) 
+[<img src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg">](https://www.facebook.com/pratibha.beniwal.98) 
 
 
 ### 💻 Languages/ Tools/ Frameworks and Libraries:
